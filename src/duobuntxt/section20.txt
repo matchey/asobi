@@ -1,0 +1,51 @@
+He contends that primitive life once existed on Mars.
+contends,primitive,life,existed,Mars
+火星にはかつて原始的な生物が存在していたと彼は力説している。
+The crew is busy preparing for the voyage into outer space.
+crew,is,busy,preparing,voyage,outer,space
+乗組員たちは宇宙への航海の準備に忙しい。
+They conducted a series of experiments under zero gravity.
+conducted,series,of,experiments,gravity
+彼らは無重力状態で一連の実験をおこなった。
+Many astronomers assume that the universe will expand infinitely.
+astronomers,assume,universe,expand,infinitely
+多くの天文学者は、宇宙は無限に膨張を続けていくものと考えている。
+The astronauts were greeted with spontaneous applause.
+astronauts,greeted,spontaneous,applause
+宇宙飛行士たちは自然と沸き起こった拍手で迎えられた。
+A fund was set up with a view to preserving our endangered planet.
+fund,set,up,with,view,to,preserving,endangered,planet
+滅亡の危機に瀕した地球を守ろうと、ある基金が設立された。
+The massive flood paralyzed the local transportation network.
+massive,flood,paralyzed,local,transportation,network
+大洪水で現地の交通網が麻痺した。
+The equator divides the globe into two hemispheres.
+equator,divides,globe,hemispheres
+赤道は地球を二つの半球に分ける。
+I think it's cruel to trap animals for fur coats.
+cruel,trap,fur
+毛皮のコートのために動物を罠で捕獲するのは残酷なことだ。
+The organization plays a principal role in wildlife conservation.
+organization,principal,role,wildlife,conservation
+その団体は野生動物の保護において、最も重要な役割を果たしている。
+Many fragile species are on the verge of extinction.
+fragile,species,are,on,the,verge,extinction
+多くの弱い生物種が絶滅の危機に瀕している。
+The prolonged drought did severe damage to the crops.
+prolonged,drought,severe,damage,crops
+長引く干ばつが収穫に甚大な被害をもたらした。
+Tropical rain forests are quickly disappearing on a global scale. In part, it's due to acid rain.
+Tropical,forests,disappearing,scale,In,part,due,to,acid
+熱帯雨林の消滅が地球規模で急速に進んでいます。その原因の一つは酸性雨です。
+It is said that global warming is directly related to carbon dioxide emissions.
+It,is,said,that,global,warming,directly,related,carbon,dioxide,emissions
+地球温暖化は、二酸化炭素の排出と直接の関係があると言われている。
+The destruction of the ozone layer affects the environment.
+destruction,ozone,layer,affects,environment
+オゾン層の破壊は環境に影響を及ぼす。
+The committee called on all nations to work side by side to curb air pollution.
+committee,called,on,to,side,by,side,curb,pollution
+委員会は、大気汚染を抑制するために互いに協力し合うよう各国に要請した。
+A satellite was launched into orbit to monitor melting glaciers.
+satellite,launched,orbit,monitor,melting,glaciers
+溶け続ける氷河を監視するために、人工衛星が軌道に打ち上げられた。

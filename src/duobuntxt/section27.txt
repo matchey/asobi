@@ -1,0 +1,45 @@
+Whenever I go abroad, I suffer from jet lag and diarrhea.
+abroad,suffer,jet,lag,diarrhea
+海外に行くと必ず、時差ボケと下痢に悩まされる。
+"I feel sort of dizzy and I feel like throwing up." "You look pale!"
+sort,of,dizzy,feel,like,throwing,up,pale
+「何だか目まいと吐き気がするよ。」 「顔が真っ青よ。」 
+Take some aspirin. It will cure you of your headache in no time.
+aspirin,cure,headache,in,no,time
+鎮痛剤を飲めば、すぐに頭痛は治まります。
+"I'm afraid I'm coming down with something." "You should take a day off."
+afraid,coming,down,with,take,off
+「何だか体調が悪いなあ。」 「一日休みを取った方がいいわよ。」 
+Some of the ingredients in this beverage are harmful, especially if you are pregnant.
+ingredients,beverage,harmful,especially,pregnant
+この飲料に含まれている成分には有害なものもある。とりわけ、妊娠中の人にとっては。
+Good nutrition is vital for an infant's growth.
+nutrition,vital,infant's,growth
+十分な栄養摂取は幼児の発育にとって極めて重要です。
+Moderate exercise stimulates the circulation of the blood.
+Moderate,exercise,stimulates,circulation,blood
+適度な運動は血行をよくする。
+My physician advised me to refrain from alcohol for the time being.
+physician,advised,refrain,from,alcohol,for,the,time,being
+当分の間は酒を控えるようにと、医者に忠告された。
+I do want to get into shape and lose some weight, so I go swimming every morning.
+do,shape,lose,weight,go,swimming
+本当に体調を良くしたいし、減量もしたいから、毎朝泳ぎに行っています。
+He caught a nasty cold because he stayed up late last night.
+caught,nasty,cold,stayed,up,late
+昨日の夜更かしがたたって、彼はひどい風邪をひいた。
+The surgeon persuaded him to undergo an organ transplant.
+surgeon,persuaded,undergo,organ,transplant
+外科医に説得されて、彼は臓器移植手術を受けることにした。
+Since our father is bedridden, we take turns looking after him.
+bedridden,take,turns,looking,after
+父が寝たきりなので私たちが交代で面倒を見ています。
+Our hypothesis is that eating excessive amounts of junk food contributes to early mortality.
+hypothesis,excessive,amounts,junk,contributes,mortality
+ジャンクフードの過剰な摂取は早死にの一因になる、というのが我々の仮説だ。
+The government did not take appropriate measures to prevent the infection from spreading.
+government,appropriate,measures,prevent,infection,spreading
+政府は感染の拡大を未然に防ぐための適切な措置を取らなかった。
+The minister was obliged to resign from the Cabinet.
+minister,obliged,resign,Cabinet
+その大臣は内閣からの辞任を余儀なくされた。

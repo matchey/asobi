@@ -1,0 +1,42 @@
+We will not tolerate anyone who engages in terrorism.
+tolerate,engages,terrorism
+我々は、誰であろうとテロ活動に携わる者に寛容でいるつもりはない。
+The notorious rebel was ultimately captured and confined to jail.
+notorious,rebel,ultimately,captured,confined,to,jail
+悪名高い反乱兵はついに捕らえられ、拘置所に身柄を拘束された。
+Troops were swiftly called in to put down the riot.
+Troops,swiftly,called,in,put,down,riot
+暴動を鎮圧するために、直ちに軍隊が派遣された。
+We should appeal to reason instead of resorting to violence.
+appeal,reason,instead,of,resorting,to,violence
+私たちは暴力に頼るのではなく、理性に訴えるべきだ。
+I suggest we adopt flexible tactics for the moment.
+suggest,adopt,flexible,tactics,moment
+当分の間は柔軟な戦術をとってみてはどうでしょう。
+The armed forces succeeded in occupying the entire territory.
+armed,succeeded,occupying,entire,territory
+軍は全領土を占領することに成功した。
+under the circumstances, the enemy has no choice but to surrender. They can't hold out any longer.
+circumstances,enemy,has,no,choice,but,to,surrender,hold,out,any,longer
+このような状況では、敵は降伏せざるを得ない。彼らがこれ以上持ちこたえることは不可能だ。
+Sooner or later, the hostages will be set free.
+Sooner,or,later,hostages,set,free
+遅かれ早かれ、人質たちは解放されるだろう。
+Under the reign of tyranny, innocent people were deprived of their citizenship.
+reign,tyranny,innocent,deprived,of,citizenship
+専制政治による支配のもとで、罪のない人々が市民権を剥奪された。
+Some soldiers were reluctant to obey the commands.
+soldiers,reluctant,obey,commands
+その命令にいやいや従う兵士もいた。
+His regime is bound to collapse.
+regime,bound,to,collapse
+彼の政権はきっと崩壊する。
+The allies condemned the invasion as a violation of UN resolutions.
+allies,condemned,invasion,violation,resolutions
+同盟諸国はその侵略行為が国連決議に違反するものとして、厳しく非難した。
+We cannot rule out the possibility that civil war will break out in that country.
+rule,out,possibility,civil,break,out
+その国で内乱が勃発する可能性がないとは断言できない。
+The colony declared independence and became a republic.
+colony,declared,independence,republic
+その植民地は独立を宣言し、共和国となった。

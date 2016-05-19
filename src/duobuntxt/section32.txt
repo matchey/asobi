@@ -1,0 +1,30 @@
+I want to spend the rest of my life pursuing my ideals.
+spend,rest,pursuing,ideals
+余生は自分の理想の追求に費やしたい。
+After retirement, Teresa devoted herself to caring for orphans.
+retirement,devoted,to,caring,for,orphans
+現役を引退した後、テレサは孤児の世話に一身を捧げた。
+For the sake of children in need, we cooperated to collect donations.
+For,the,sake,of,in,need,cooperated,collect,donations
+困っている子どもたちのために、私たちは募金活動に協力した。
+The charity is named after a man who gave away some two billion yen.
+charity,named,after,gave,away,some,billion
+その慈善団体には、およそ20億円の寄付をした人物の名前が付けられている。
+His autobiography was released today and was sold out by noon.
+autobiography,released,sold,out
+彼の自叙伝が今日発売され、午前中に完売した。
+Ted, who is often referred to as a man of integrity, is going to run for mayor.
+referred,to,integrity,run,for,mayor
+高潔な人物だと度々称されるテッドが、市長に立候補する。
+The candidate was disappointed by the outcome of the election.
+candidate,disappointed,outcome,election
+その候補者は選挙結果に落胆した。
+The municipal council should concentrate more on specific issues.
+municipal,council,concentrate,specific,issues
+市議会は具体的な問題にもっと焦点を当てるべきだ。
+It is the case that those who live on a pension are forced to lead a hard life.
+It,is,the,case,that,live,on,pension,forced,lead,life
+年金生活者が厳しい生活を強いられているというのは事実です。
+We should leave out this data. It's far from accurate.
+leave,out,data,far,from,accurate
+このデータは除外した方がいい。正確と言うにはほど遠いものだ。

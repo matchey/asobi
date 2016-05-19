@@ -1,0 +1,27 @@
+The cops are searching for clues to the brutal murder.
+cops,searching,clues,to,brutal,murder
+警察はその残虐な殺人事件の手がかりを捜している。
+The man must be insane. He can't distinguish vice from virtue.
+insane,distinguish,vice,virtue
+その男は頭がおかしいに違いない。善悪の区別がつけられないんだ。
+The fingerprints left on the weapon correspond with the suspect's.
+fingerprints,weapon,correspond
+凶器に残された指紋は容疑者のものと一致する。
+It took us all by surprise when the noted psychologist was accused of kidnapping.
+took,by,surprise,noted,psychologist,accused,of,kidnapping
+その著名な心理学者が誘拐罪で訴えられたことに、私たちはみな驚いた。
+The jury's guilty verdict gave rise to widespread debate.
+jury's,guilty,verdict,gave,rise,to,widespread,debate
+陪審団による有罪評決が大論争の引き金となった。
+The man pleaded for mercy, but he was sentenced to twenty years in prison for his crime.
+pleaded,for,mercy,sentenced,prison,crime
+男は情報酌量を求めたが、犯した罪に対して20年の懲役刑が言い渡された。
+The officer on duty perceived an elderly man coming up behind him.
+officer,on,duty,perceived,elderly,coming,up
+勤務中の警官は、一人のお年寄りが自分の背後に近づいてくるのに気付いた。
+He caught sight of a thief attempting to break into the house.
+caught,sight,of,thief,attempting,break,into
+彼はその家に押入ろうとしている泥棒を目にした。
+The day before yesterday he witnessed a weird incident in the wilderness.
+witnessed,weird,incident,wilderness
+おととい、彼はその原野で奇妙な出来事を目撃した。

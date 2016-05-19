@@ -1,0 +1,33 @@
+First of all, learn the formula by heart.
+First,of,all,formula,by,heart
+何よりもまず、公式を暗記しなさい。
+To calculate the volume, multiply the length by the width by the depth.
+caluculate,volume,multiply,length,width,depth
+体積を計算する場合は、縦と横と深さを掛けます。
+Tiny cracks were found in the bottom of the barrel.
+Tiny,cracks,bottom,barrel
+樽の底にとても小さなひびがあるのを見つけた。
+This chapter will focus on the concepts of geometry.
+chapter,focus,on,geometry
+この章では幾何学の概念に焦点をあてます。
+Phil is much more interested in academic subjects than in practical skills.
+is,interested,academic,subjects,practical,skills
+フィルは実用的な技能よりも学問的なテーマのほうに興味がある。
+"Something's gone wrong with this microscope. I need to have it repaired." " Let me see it. Maybe I can fix it."
+gone,wrong,with,microscope,have,repaired,Let,me,see,it,fix
+｢この顕微鏡、どこかおかしくなっちゃった。修理してもらわないと。」 「見せて。僕が直せるかも。」  
+"What is 'an instrument?" "For instance, a gauge, such as a thermometer or a barometer."
+instrument,instance,gauge,such,as,thermometer,barometer
+「インストゥルメントって何ですか？」「例えば、温度計や気圧計とかの計器がそうです。」  
+The minute particles are barely visible to the naked eye.
+minute,particles,barely,visible,naked
+その微粒子は肉眼でもかろうじて見える。
+Muscle tissue consists of a vast number of cells.
+Muscle,tissue,consists,vast,cells
+筋肉組織はおびただしい数の細胞から成っている。
+This substance is mostly composed of hydrogen and oxygen.
+substance,mostly,composed,hydrogen,oxygen
+この物質は主に水素と酸素でできている。
+The exact temperature is 22.68 degrees Celsius.
+exact,temperature,degrees,Celsius
+正確な気温はセ氏22.68度です。

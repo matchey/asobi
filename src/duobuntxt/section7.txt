@@ -1,0 +1,48 @@
+The chairman cut me off, saying, "Time to wind things up. Let's take a vote."
+chairman,cut,off,wind,vote
+議長は私の話を遮って、「話し合いはここまでにして決を採りましょう。」と言った。  
+We exchanged frank opinions in the meeting, but consensus is yet to be reached regarding this matter.
+exchanged,frank,opinions,meeting,consequences,yet,to,reached,regarding,matter
+我々は会議で率直な意見を交わしたが、この件に関してはまだ全体の意見がまとまらない。
+Do you agree or disagree with him? "I'm on his side."
+agree,disagree,on,his,side
+「あなたは彼と同じ意見？ それとも違うの？」「彼のほうを支持するよ。」  
+Strictly speaking, his view differs somewhat from mine.
+Strictly,view,differs,somewhat
+厳密に言えば、彼の見解は私のものとはいくらか異なる。
+Could you go over it again? I couldn't make out what you were getting at.
+go,over,make,out,were,getting,at
+もう一度詳しく説明していただけませんか？ お話の意図がわかりませんでした。
+No one backed me up at first, but eventually I talked everyone into going along with my plan.
+backed,at,first,eventually,talked,into,going,with
+僕の案を支持してくれる人は最初は誰もいなかったけれど、最後にはみんなを説得して賛同してもらうことができた。
+I admire your perseverance, courage and wisdom. "You flatter me!"
+admire,perseverance,courage,wisdom,flatter
+君の不屈の努力、勇気、そして知恵には感心するよ。」「お世辞でもうれしいわ！」  
+In making a decision, I rely not on logic but on instinct.
+In,making,decision,rely,on,not,logic,but,instinct
+どうするかを決めるとき、僕は論理ではなく本能を当てにする。
+He came up with an ingenious, sensible solution and immediately put it into practice.
+came,up,with,ingenious,sensible,solution,immediately,put,into,practice
+彼は独創的かつ賢明な解決策を考え出し、直ちにそれを実行に移した。
+From an objective viewpoint, the former is inferior to the latter.
+From,objective,viewpoint,former,inferior,latter
+客観的に見れば、前者は後者よりも劣っている。
+Your idea sounds marvelous in theory, yet I don't think it will work in practice.
+sounds,marvelous,in,theory,yet,in,practice
+あなたの考えは理論上はすばらしそうだけれども、実際には機能しないと思います。
+We expected him to defeat his opponent, but he failed to live up to our expectations.
+expected,defeat,opponent,failed,live,up,to,our,expectations
+私たちは彼が相手に勝つことを期待したが、彼はその期待に応えられなかった。
+Ironically, despite their best endeavors, their mission resulted in complete failure.
+Ironically,despite,endeavors,mission,resulted,in,complete,failure
+皮肉なことだが、彼らの最善の努力にもかかわらず、任務は完全な失敗に終わった。
+Her genius makes up for her lack of firsthand experience.
+genius,makes,up,for,lack,firsthand,experience
+実地経験の不足は彼女の天賦の才能で補える。
+She possesses a great capacity for overcoming any obstacle.
+possesses,capacity,overcoming,obstacle
+彼女にはどんな障害をも克服できるすばらしい能力がある。
+Without your solid support, the deal would have fallen through. I'm grateful to you.
+Without,solid,support,deal,would,have,fallen,through,grateful,to
+あなたの強固な支援がなかったら、その取引は成立しなかったでしょう。感謝しています。

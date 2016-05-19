@@ -1,0 +1,30 @@
+The questionnaires were distributed at random.
+questionnaires,distributed,at,random
+アンケート用紙が無作為に配布された。
+All you have to do is fill in the blanks below. (Please print in black or blue ink.)
+All,you,have,to,do,is,fill,in,the,blanks,in,black
+以下の空欄部分にご記入いただくだけで結構です。（黒または青インクではっきりと書いて下さい）
+In addition to a 10% discount, you can pick out an optional excursion for free.
+In,addition,to,discount,pick,out,optional,excursion,for,free
+10%の割引に加えて、無料のオプションツアーを一つ選択できます。
+Round-trip fares to each destination are as follows.
+Round-trip,fares,destination,as,follows
+各目的地までの往復料金は下記の通りです。
+"Don't forget to confirm your reservation in advance." "I won't."
+Don't,forget,to,confirm,reservation,in,advance
+「事前に予約の確認をするのを忘れないでね。」 「ええ。」 
+Be sure to check in at least 45 minutes prior to departure time.
+Be,sure,to,check,in,at,least,prior,to,departure
+遅くとも出発時刻の45分前には搭乗手続きを必ず完了させて下さい。
+I attached my name tag to my baggage, but it soon came off.
+attached,tag,baggage,came,off
+自分の荷物に名札を付けたけれども、すぐに取れてしまった。
+On average, these packages weigh two pounds.
+average,packages,weigh,pounds
+これらの小包の重さは平均すると2ポンドです。
+This plastic garbage bag is free of hazardous chemicals.
+plastic,garbage,bag,free,of,hazardous,chemicals
+このビニール製のゴミ袋は有害な化学物質を含んでいません。
+This flashlight is getting dim. It needs new batteries.
+flashlight,dim,batteries
+この懐中電灯は明かりが弱くなってきた。電池を入れ替えないと。

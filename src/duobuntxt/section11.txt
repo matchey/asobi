@@ -1,0 +1,33 @@
+The auditorium was empty except for a single piece of furniture.
+auditorium,empty,except,for,furniture
+たった一つの家具を除けば、講堂はがらんどうだった。
+Any apartment will do as long as the rent is low. I'm not particular about it.
+apartment,will,do,as,long,as,rent,particular
+家賃が安ければ、どんなマンションでも構いません。こだわりはありませんから。
+His sixty-year-old cousin inherited a piece of real estate by a lake.
+sixty-year-old,cousin,inherited,real,estate
+彼の60歳のいとこが湖畔の不動産を相続した。
+So much for small talk. Let's get down to business.
+So,much,for,small,talk,get,down,to
+雑談はこの辺にして、本題に入りましょう。
+Lucy resented the aggressive salesman trying to make her sign the contract.
+resented,aggressive,salesman,make,sign
+ルーシーは、契約書にサインさせようとする強引な販売員に腹を立てた。
+There are a number of factors discouraging us from investing in stocks.
+number,of,factors,discouraging,investing,stocks
+私たちの株式投資への意欲をそぐような要因がかなりある。
+Japan imports various raw materials and exports manufactured goods.
+imports,various,raw,materials,exports,manufactured,goods
+日本は様々な原料を輸入し、工業製品を輸出している。
+In the course of its economic development, Japan has abandoned its traditional values.
+In,the,course,of,economic,development,abandoned,traditional,values
+経済発展の過程で、日本はその伝統的価値観を捨ててきた。
+The world is faced with an unprecedented crisis.
+is,faced,with,unprecedented,crisis
+世界はかつてない危機に直面している。
+In short, the purpose of the regulations is to protect domestic industries.
+In,short,purpose,regulations,protect,domestic,industries
+要するに、その規制の目的は国内産業の保護だ。
+In order to keep up its competitiveness in the world, Japan must undertake sweeping deregulation in earnest.
+In,order,to,keep,up,competitiveness,undertake,sweeping,deregulation,earnest
+世界での競争力を維持するためには、日本は大幅な規制緩和に真剣に着手しなければならない。

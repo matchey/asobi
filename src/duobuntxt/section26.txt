@@ -1,0 +1,30 @@
+Excuse me. How often do the shuttle buses run to downtown New York?
+How,often,shuttle,downtown
+すみません。ニューヨーク市街に行くシャトルバスはどの位の間隔で走ってますか？
+The motel can accommodate as many as 400 guests.
+motel,accommodate,as,as
+そのモーテルは400人もの宿泊客を泊められる。
+This suite is three times larger than my condominium.
+suite,three,times,larger,than,condominium
+このスイートルームは、私の持っているマンションの3倍の広さだ。
+Littering in this facility is subject to a maximum fine of $500.
+Littering,facility,is,subject,to,maximum,fine
+この施設内でのゴミの投げ捨てには、最高500ドルの罰金が科せられることがあります。
+That restaurant is always packed. We'd better make a reservation beforehand.
+packed,better,make,reservation,beforehand
+あのレストランはいつでも混んでいるから、事前に予約をした方がいい。
+"Sorry to interrupt your meal but I'd like a word with you in private." "Can I get back to you later?"
+interrupt,meal,I'd,like,word,with,you,private,get,back,to
+「食事の邪魔をして悪いんだけど、ちょっと内密に話がしたいの。」 「後で君のところに行くよ。」 
+The cook was astonished at his incredible appetite.
+cook,astonished,incredible,appetite
+料理人は彼の信じられないほどの食欲にとても驚いた。
+"What's going on down there? I'm curious." "I have no idea."
+going,on,curious,have,no,idea.
+「下で何が起こっているの？ すごく気になるわ。」 「さあ、何だろう。」 
+Excited fans were hanging around the rear exit hoping to catch a glimpse of Michael.
+Excited,fans,hanging,around,rear,exit,glimpse
+興奮したファンたちが、マイケルを一目見ようと裏口に群がっていた。
+On encountering the celebrity, they asked for his autograph.
+On,encountering,celebrity,asked,for,autograph
+彼らは有名人と出くわすなり、サインをねだった。

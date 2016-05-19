@@ -1,0 +1,27 @@
+Bringing flammable items into the cabin is prohibited.
+flammable,items.cabin,prohibited
+機内への可燃物の持ち込みは禁止されています。
+Our flight to Vienna was delayed on account of a minor accident.
+flight,Vienna,delayed,on,account,minor,accident
+ちょっとした事故が原因で、私たちのウィーン行きの便に遅れが出た。
+The plane blew up and plunged into the ocean, killing all the people on board.
+plane,blew,up,plunged,ocean,board
+飛行機が爆発して海に墜落し、乗っていた全員が死亡した。
+They are working around the clock looking into the cause of the crash.
+around,the,clock,looking,into,cause,crash
+彼らは昼夜休むことなく、その墜落事故の原因を調査している。
+Unfortunately, few passengers survived the catastrophe.
+Unfortunately,few,passengers,survived,catastrophe
+不幸にも、その大惨事で生き残った乗客はほとんどいなかった。
+The aviation expert analyzed the statistics in detail.
+aviation,expert,analyzed,statistics,detail
+航空評論家が統計を詳細に分析した。
+On behalf of all the staff, I'd like to express our sympathy for the victims.
+On,behalf,of,staff,express,sympathy,victims
+全従業員を代表いたしまして、犠牲者の方々に対してお悔やみを申し上げたいと存じます。
+In a sense, he is to blame for the disaster.
+sense,blame,disaster
+ある意味、その惨事の責任は彼にある。
+The vehicles are inspected for defects every three months.
+vehicles,inspected,defects,every
+車両は欠陥がないか3ケ月に1度検査される。
